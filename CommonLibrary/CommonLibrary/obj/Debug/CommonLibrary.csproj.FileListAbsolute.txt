@@ -1,0 +1,5 @@
+E:\Developpement\VS2015\TestC_\CommonLibrary\CommonLibrary\bin\Debug\CommonLibrary.dll
+E:\Developpement\VS2015\TestC_\CommonLibrary\CommonLibrary\bin\Debug\CommonLibrary.pdb
+E:\Developpement\VS2015\TestC_\CommonLibrary\CommonLibrary\obj\Debug\CommonLibrary.csprojResolveAssemblyReference.cache
+E:\Developpement\VS2015\TestC_\CommonLibrary\CommonLibrary\obj\Debug\CommonLibrary.dll
+E:\Developpement\VS2015\TestC_\CommonLibrary\CommonLibrary\obj\Debug\CommonLibrary.pdb

@@ -1,0 +1,6 @@
+E:\Developpement\VS2015\TestC_\ClientSimulateur\ClientSimulateur\bin\Debug\ClientSimulateur.exe.config
+E:\Developpement\VS2015\TestC_\ClientSimulateur\ClientSimulateur\bin\Debug\ClientSimulateur.exe
+E:\Developpement\VS2015\TestC_\ClientSimulateur\ClientSimulateur\bin\Debug\ClientSimulateur.pdb
+E:\Developpement\VS2015\TestC_\ClientSimulateur\ClientSimulateur\obj\Debug\ClientSimulateur.exe
+E:\Developpement\VS2015\TestC_\ClientSimulateur\ClientSimulateur\obj\Debug\ClientSimulateur.pdb
+E:\Developpement\VS2015\TestC_\ClientSimulateur\ClientSimulateur\obj\Debug\ClientSimulateur.csprojResolveAssemblyReference.cache

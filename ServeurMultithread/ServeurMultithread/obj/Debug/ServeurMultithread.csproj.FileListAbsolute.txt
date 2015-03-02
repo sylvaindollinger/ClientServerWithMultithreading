@@ -1,0 +1,6 @@
+E:\Developpement\VS2015\TestC_\ServeurMultithread\ServeurMultithread\bin\Debug\ServeurMultithread.exe.config
+E:\Developpement\VS2015\TestC_\ServeurMultithread\ServeurMultithread\obj\Debug\ServeurMultithread.csprojResolveAssemblyReference.cache
+E:\Developpement\VS2015\TestC_\ServeurMultithread\ServeurMultithread\bin\Debug\ServeurMultithread.exe
+E:\Developpement\VS2015\TestC_\ServeurMultithread\ServeurMultithread\bin\Debug\ServeurMultithread.pdb
+E:\Developpement\VS2015\TestC_\ServeurMultithread\ServeurMultithread\obj\Debug\ServeurMultithread.exe
+E:\Developpement\VS2015\TestC_\ServeurMultithread\ServeurMultithread\obj\Debug\ServeurMultithread.pdb
