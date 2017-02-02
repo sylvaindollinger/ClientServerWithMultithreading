@@ -4,3 +4,12 @@ E:\Developpement\VS2015\TestC_\ServeurMultithread\ServeurMultithread\bin\Debug\S
 E:\Developpement\VS2015\TestC_\ServeurMultithread\ServeurMultithread\bin\Debug\ServeurMultithread.pdb
 E:\Developpement\VS2015\TestC_\ServeurMultithread\ServeurMultithread\obj\Debug\ServeurMultithread.exe
 E:\Developpement\VS2015\TestC_\ServeurMultithread\ServeurMultithread\obj\Debug\ServeurMultithread.pdb
+C:\Users\admin\Source\Repos\ClientServerWithMultithreading\ServeurMultithread\ServeurMultithread\bin\Debug\ServeurMultithread.exe.config
+C:\Users\admin\Source\Repos\ClientServerWithMultithreading\ServeurMultithread\ServeurMultithread\obj\Debug\ServeurMultithread.exe
+C:\Users\admin\Source\Repos\ClientServerWithMultithreading\ServeurMultithread\ServeurMultithread\obj\Debug\ServeurMultithread.pdb
+D:\Dev\mesSources\ClientServerWithMultithreading\ServeurMultithread\ServeurMultithread\bin\Debug\ServeurMultithread.exe.config
+D:\Dev\mesSources\ClientServerWithMultithreading\ServeurMultithread\ServeurMultithread\obj\Debug\ServeurMultithread.exe
+D:\Dev\mesSources\ClientServerWithMultithreading\ServeurMultithread\ServeurMultithread\obj\Debug\ServeurMultithread.pdb
+D:\Dev\mesSources\ClientServerWithMultithreading\ServeurMultithread\ServeurMultithread\bin\Debug\ServeurMultithread.exe
+D:\Dev\mesSources\ClientServerWithMultithreading\ServeurMultithread\ServeurMultithread\bin\Debug\ServeurMultithread.pdb
+D:\Dev\mesSources\ClientServerWithMultithreading\ServeurMultithread\ServeurMultithread\obj\Debug\ServeurMultithread.csprojResolveAssemblyReference.cache

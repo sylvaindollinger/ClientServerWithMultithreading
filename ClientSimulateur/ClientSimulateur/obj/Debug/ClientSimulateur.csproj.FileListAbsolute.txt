@@ -4,3 +4,9 @@ E:\Developpement\VS2015\TestC_\ClientSimulateur\ClientSimulateur\bin\Debug\Clien
 E:\Developpement\VS2015\TestC_\ClientSimulateur\ClientSimulateur\obj\Debug\ClientSimulateur.exe
 E:\Developpement\VS2015\TestC_\ClientSimulateur\ClientSimulateur\obj\Debug\ClientSimulateur.pdb
 E:\Developpement\VS2015\TestC_\ClientSimulateur\ClientSimulateur\obj\Debug\ClientSimulateur.csprojResolveAssemblyReference.cache
+D:\Dev\mesSources\ClientServerWithMultithreading\ClientSimulateur\ClientSimulateur\bin\Debug\ClientSimulateur.exe.config
+D:\Dev\mesSources\ClientServerWithMultithreading\ClientSimulateur\ClientSimulateur\bin\Debug\ClientSimulateur.exe
+D:\Dev\mesSources\ClientServerWithMultithreading\ClientSimulateur\ClientSimulateur\bin\Debug\ClientSimulateur.pdb
+D:\Dev\mesSources\ClientServerWithMultithreading\ClientSimulateur\ClientSimulateur\obj\Debug\ClientSimulateur.csprojResolveAssemblyReference.cache
+D:\Dev\mesSources\ClientServerWithMultithreading\ClientSimulateur\ClientSimulateur\obj\Debug\ClientSimulateur.exe
+D:\Dev\mesSources\ClientServerWithMultithreading\ClientSimulateur\ClientSimulateur\obj\Debug\ClientSimulateur.pdb
