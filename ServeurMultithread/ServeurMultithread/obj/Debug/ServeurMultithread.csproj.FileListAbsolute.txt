@@ -16,3 +16,6 @@ D:\Dev\mesSources\ClientServerWithMultithreading\ServeurMultithread\ServeurMulti
 D:\Dev\mesSources\HowDoCSharp\ClientServerWithMultithreading\ServeurMultithread\ServeurMultithread\bin\Debug\ServeurMultithread.exe.config
 D:\Dev\mesSources\HowDoCSharp\ClientServerWithMultithreading\ServeurMultithread\ServeurMultithread\obj\Debug\ServeurMultithread.exe
 D:\Dev\mesSources\HowDoCSharp\ClientServerWithMultithreading\ServeurMultithread\ServeurMultithread\obj\Debug\ServeurMultithread.pdb
+D:\Dev\mesSources\HowDoCSharp\ClientServerWithMultithreading\ServeurMultithread\ServeurMultithread\bin\Debug\ServeurMultithread.exe
+D:\Dev\mesSources\HowDoCSharp\ClientServerWithMultithreading\ServeurMultithread\ServeurMultithread\bin\Debug\ServeurMultithread.pdb
+D:\Dev\mesSources\HowDoCSharp\ClientServerWithMultithreading\ServeurMultithread\ServeurMultithread\obj\Debug\ServeurMultithread.csprojResolveAssemblyReference.cache
