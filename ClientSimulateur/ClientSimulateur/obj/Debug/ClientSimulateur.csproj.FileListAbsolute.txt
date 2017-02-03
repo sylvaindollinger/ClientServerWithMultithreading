@@ -10,3 +10,6 @@ D:\Dev\mesSources\ClientServerWithMultithreading\ClientSimulateur\ClientSimulate
 D:\Dev\mesSources\ClientServerWithMultithreading\ClientSimulateur\ClientSimulateur\obj\Debug\ClientSimulateur.csprojResolveAssemblyReference.cache
 D:\Dev\mesSources\ClientServerWithMultithreading\ClientSimulateur\ClientSimulateur\obj\Debug\ClientSimulateur.exe
 D:\Dev\mesSources\ClientServerWithMultithreading\ClientSimulateur\ClientSimulateur\obj\Debug\ClientSimulateur.pdb
+D:\Dev\mesSources\HowDoCSharp\ClientServerWithMultithreading\ClientSimulateur\ClientSimulateur\bin\Debug\ClientSimulateur.exe.config
+D:\Dev\mesSources\HowDoCSharp\ClientServerWithMultithreading\ClientSimulateur\ClientSimulateur\obj\Debug\ClientSimulateur.exe
+D:\Dev\mesSources\HowDoCSharp\ClientServerWithMultithreading\ClientSimulateur\ClientSimulateur\obj\Debug\ClientSimulateur.pdb

@@ -3,3 +3,8 @@ E:\Developpement\VS2015\TestC_\CommonLibrary\CommonLibrary\bin\Debug\CommonLibra
 E:\Developpement\VS2015\TestC_\CommonLibrary\CommonLibrary\obj\Debug\CommonLibrary.csprojResolveAssemblyReference.cache
 E:\Developpement\VS2015\TestC_\CommonLibrary\CommonLibrary\obj\Debug\CommonLibrary.dll
 E:\Developpement\VS2015\TestC_\CommonLibrary\CommonLibrary\obj\Debug\CommonLibrary.pdb
+D:\Dev\mesSources\HowDoCSharp\ClientServerWithMultithreading\CommonLibrary\CommonLibrary\bin\Debug\CommonLibrary.dll
+D:\Dev\mesSources\HowDoCSharp\ClientServerWithMultithreading\CommonLibrary\CommonLibrary\bin\Debug\CommonLibrary.pdb
+D:\Dev\mesSources\HowDoCSharp\ClientServerWithMultithreading\CommonLibrary\CommonLibrary\obj\Debug\CommonLibrary.csprojResolveAssemblyReference.cache
+D:\Dev\mesSources\HowDoCSharp\ClientServerWithMultithreading\CommonLibrary\CommonLibrary\obj\Debug\CommonLibrary.dll
+D:\Dev\mesSources\HowDoCSharp\ClientServerWithMultithreading\CommonLibrary\CommonLibrary\obj\Debug\CommonLibrary.pdb
